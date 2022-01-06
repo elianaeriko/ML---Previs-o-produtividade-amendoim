@@ -7,3 +7,4 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 dados = pd.read_excel('https://github.com/GlaucoRolim/dados_publicos/blob/main/dados-ciclo_aguas-amendoim.xlsx?raw=true')
 print("testando 1")
+dados-
